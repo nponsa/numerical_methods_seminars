@@ -12,6 +12,6 @@ methods can also be established with the results obtained.
 In study 3 we propose to integrate the Lorentz-Haken equations using two methods
 different: the Euler and Runge-Kutta methods (of order 4). In this way, can actually be studied the behavior
 and the properties of the different solutions of these equations in the field of fluid dynamics and laser theory.
-![project2](euler_rugekutta.jpg)\
+![project3](euler_rugekutta.jpg)\
 *Superposition of both methods, showing their convergence*
 
