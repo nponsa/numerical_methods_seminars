@@ -7,7 +7,7 @@ the roots of a non-linear equation using the Newton-Raphson method while using t
 In study 2 P2MN, different integration methods to calculate the period
 of a non-harmonic motion pendulum are being used. In this case, the methods used will be the method of
 trapezoids and the Romberg method. A comparison between the precision of these two
-methods can also be established with the results obtained.
+methods can also be established with the results obtained.The image represents the differences in angles and methods after the plotting of the data the code has given once entered the conditions (angles)
 ![project2](romberg.jpg)\
 *Comparison chart using both methods*
 
